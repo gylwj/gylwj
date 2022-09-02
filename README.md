@@ -1,4 +1,4 @@
-<img align="left" src="https://q4.qlogo.cn/headimg_dl?dst_uin=3194703513&spec=0" alt="Eryou Hao" width=285px height=384px/>
+<img align="left" src="https://raw.githubusercontent.com/gylwj/gylwj/main/1.jpg" alt="Eryou Hao" width=285px height=384px/>
 
 Hi, my name is **小k**.
 
