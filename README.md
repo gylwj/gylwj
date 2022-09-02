@@ -1,4 +1,4 @@
-<img align="left" src="https://raw.githubusercontent.com/gylwj/gylwj/main/1.jpg" alt="小k" width=285px height=384px/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/gylwj/gylwj@main/1.jpg" alt="小k" width=285px height=384px/>
 
 Hi, my name is **小k**.
 
