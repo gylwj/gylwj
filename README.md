@@ -1,4 +1,21 @@
-### Hi there 👋
+<img align="left" src="https://q4.qlogo.cn/headimg_dl?dst_uin=3194703513&spec=0" alt="Eryou Hao" width=285px height=384px/>
+
+Hi, my name is **小k**.
+
+I'm a front-end developer from China.
+
+### 我的个人网站
+
+- [主页](https://imlwj.cn) - 我的个人主页
+- [资源](https://rjku.gitee.io) - 我的资源导航
+- [博客](https://xkboi.cn) - 我的个人博客
+
+
+### Get in touch
+
+- Twitter: [@nbklsznb](https://twitter.com/nbklsznb)
+- Personal site: [客服](https://rjku.gitee.io/kf)
+
 
 <!--
 **gylwj/gylwj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
