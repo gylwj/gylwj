@@ -6,11 +6,6 @@
 
 <img alt="小k" src="https://cdn.jsdelivr.net/gh/gylwj/gylwj@main/1.jpg" width=200 />
 
-<p>
-
-[![Wechat](https://img.shields.io/badge/-%E5%A4%A7%E5%B8%85%E8%80%81%E7%8C%BF-07c160?logo=wechat&logoColor=white&label=公众号)](https://open.weixin.qq.com/qr/code?username=ezfullstack)
-  
-</p>
   
 我热爱编程. :heart:
 
