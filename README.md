@@ -1,10 +1,10 @@
 <div align=center>
 
-<img alt="大帅" src="https://p6-passport.byteacctimg.com/img/user-avatar/aed661aae79b90d27a304ddd0b8890d6~300x300.image" width=100 />
+<img alt="小k" src="https://cdn.jsdelivr.net/gh/gylwj/gylwj@main/1.jpg" width=100 />
 
-# 我叫`大帅`，一个`老`程序`猿`
+# 我叫`小k`，一个`网页`设计`爱好者`
 
-<img alt="大帅" src="https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/a305837cedc847e787a9ec41ee7bbe4a~tplv-k3u1fbpfcp-watermark.image?" width=200 />
+<img alt="小k" src="https://cdn.jsdelivr.net/gh/gylwj/gylwj@main/1.jpg" width=200 />
 
 <p>
 
