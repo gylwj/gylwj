@@ -9,7 +9,7 @@
   
 我热爱编程. :heart:
 
-希望可以一直写代码. :hear1t:
+希望可以一直写代码. :heart:
 
 ### 我喜欢这些 :point_down:  
 
@@ -30,9 +30,6 @@
 ![MiniProgram](https://img.shields.io/badge/-uniapp-green?logo=vue.js&logoColor=white)
 
 </p>
-  
-
-[![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=ezshine&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--2.0版本-->
 <!--<img align="left" src="https://cdn.jsdelivr.net/gh/gylwj/gylwj@main/1.jpg" alt="小k" width=285px height=384px/>
