@@ -7,9 +7,9 @@
 <img alt="小k" src="https://cdn.jsdelivr.net/gh/gylwj/gylwj@main/1.jpg" width=200 />
 
   
-我热爱编程. :heart:
+我热爱设计. :heart:
 
-希望可以一直写代码. :heart:
+微信公众号：酿俗. :heart:
 
 ### 我喜欢这些 :point_down:  
 
